@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Looking forward to some interesting projects in 2023</title>
+    <link href="/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/"/>
+    <url>/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/</url>
+    
+    <content type="html"><![CDATA[<p><em>Loom: wiki.openjdk.org/display/loom/Main</em></p><ul><li><p><em>Virtual tds</em></p></li><li><p><em>Ctructed concurrency</em></p></li><li><p><em>Scoped values</em></p></li></ul><p>  <em>Spinning: 虚拟栈桢、同步、文件IO</em></p><p><em>Galahad: mail.openjdk.org/pipermail/discuss/2022-December/006164.html</em></p><ul><li><p><em>Move Graal’s JIT to OpenJDK</em></p></li><li><p><em>Integrate into JDK repository(alternative to Hotspot JIT)</em></p></li><li><p><em>AOT-compile JIT</em></p></li></ul><p><em>Leyden: openjdk.org/projects/leyden/</em></p><ul><li><em>解决Java启动时间缓慢、性能达到峰值时间较慢以及占据空间大等问题，和Graal一样想从镜像入手</em></li></ul><p><em>Panama: openjdk.org/projects/panama/</em></p><p><em>Vallaha: openjdk.org/projects/valhalla/</em></p><p><em>专注于原身API的改进</em></p><p><em>Valhalla: openjdk.org/projects/valhalla/</em></p><p><em>尝试将Hotspot对象头的大小从128或64bit减少至32bit，这将释放10%到20%的堆.</em></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>OpenJDK</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>The top ten luxury goods</title>
     <link href="/2022/11/20/The-top-ten-luxury-goods/"/>
     <url>/2022/11/20/The-top-ten-luxury-goods/</url>
@@ -11,6 +30,12 @@
     <content type="html"><![CDATA[<p> — 生命的觉醒开悟   the awakening and enlightenment of life</p><p> — 自由、喜悦、爱的心   a heart free joy of love</p><p> — 游走精神世界  gone through the spirit</p><p>— 回归大自然  return to nature</p><p>— 安稳平和的睡眠  safe and peaceful sleep</p><p>— 享受属于自己空间与时间的生活  enjoy their own space and time</p><p>— 牵手一个彼此深爱的灵魂伴侣  love soul mate with each other</p><p>— 真正懂你的知心好友  ever truly understand you</p><p>— 身体和内心的健康、精神的充实  healthy body and inner rich</p><p>— 点燃他人希望的精神特质  infected and ethos of the others</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>Life</tag>
+      
+    </tags>
     
   </entry>
   
