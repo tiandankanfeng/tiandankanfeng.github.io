@@ -3,11 +3,11 @@
   <title>Velpro&#39;s Blog</title>
   
   
-  <link href="http://tiandankanfeng.gihub.io/atom.xml" rel="self"/>
+  <link href="http://tiandankanfeng.github.io/atom.xml" rel="self"/>
   
-  <link href="http://tiandankanfeng.gihub.io/"/>
+  <link href="http://tiandankanfeng.github.io/"/>
   <updated>2023-01-23T16:39:59.469Z</updated>
-  <id>http://tiandankanfeng.gihub.io/</id>
+  <id>http://tiandankanfeng.github.io/</id>
   
   <author>
     <name>Zelin Wu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Looking forward to some interesting projects in 2023</title>
-    <link href="http://tiandankanfeng.gihub.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/"/>
-    <id>http://tiandankanfeng.gihub.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/</id>
+    <link href="http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/"/>
+    <id>http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/</id>
     <published>2023-01-23T16:28:41.000Z</published>
     <updated>2023-01-23T16:39:59.469Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="OpenJDK" scheme="http://tiandankanfeng.gihub.io/tags/OpenJDK/"/>
+    <category term="OpenJDK" scheme="http://tiandankanfeng.github.io/tags/OpenJDK/"/>
     
   </entry>
   
   <entry>
     <title>The top ten luxury goods</title>
-    <link href="http://tiandankanfeng.gihub.io/2022/11/20/The-top-ten-luxury-goods/"/>
-    <id>http://tiandankanfeng.gihub.io/2022/11/20/The-top-ten-luxury-goods/</id>
+    <link href="http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/"/>
+    <id>http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/</id>
     <published>2022-11-20T15:10:13.000Z</published>
     <updated>2023-01-24T03:59:19.823Z</updated>
     
@@ -58,7 +58,7 @@
     
     
     
-    <category term="Life" scheme="http://tiandankanfeng.gihub.io/tags/Life/"/>
+    <category term="Life" scheme="http://tiandankanfeng.github.io/tags/Life/"/>
     
   </entry>
   
